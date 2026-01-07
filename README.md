@@ -35,7 +35,7 @@ git clone https://github.com/yourusername/google-dorker.git
 2. Open the file in your browser
 
 ```bash
-cd google-dorker
+cd Google_Bing-Dorker
 open google_dorker.html
 or
 open bing_dorker.html
