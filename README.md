@@ -20,7 +20,7 @@ This project is designed for **security researchers, bug bounty hunters, penetra
 
 ## 📸 Preview
 
-![Color Spectrum Output](Bing.png)
+![Color Spectrum Output](bing.png)
 
 ---
 
