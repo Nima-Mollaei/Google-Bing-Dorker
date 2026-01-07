@@ -20,7 +20,7 @@ This project is designed for **security researchers, bug bounty hunters, penetra
 
 ## 📸 Preview
 
-> Minimal, clean, and security‑focused interface inspired by Kali / HTB tools.
+![Color Spectrum Output](Bing.png)
 
 ---
 
