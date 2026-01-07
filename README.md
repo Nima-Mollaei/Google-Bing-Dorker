@@ -122,3 +122,4 @@ This tool is intended for **educational and authorized security testing only**.
 Always follow responsible disclosure and local laws.
 
 
+
